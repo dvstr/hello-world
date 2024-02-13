@@ -1,4 +1,5 @@
 # hello-world
+Hi, I'm Anton
 My first repository
 
-My furst commit
+My first commit
